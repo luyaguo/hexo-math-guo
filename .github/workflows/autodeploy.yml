@@ -60,7 +60,7 @@ jobs:
       - name: 部署到Github
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.DEPLOY_TOKEN }}
+          token: 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
           repository-name: luyaguo/math-guo
           branch: main
           folder: public
