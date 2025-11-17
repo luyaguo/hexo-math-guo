@@ -101,4 +101,7 @@ theme: Chic
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  token: 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
+  repository: git@github.com:luyaguo/math-guo.git
+  branch: main
