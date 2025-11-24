@@ -63,6 +63,6 @@ jobs:
         with:
           token: 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
           repository-name: luyaguo/math-guo
-          branch: main
+          branch: math
           folder: public
           commit-message: "Deployed by GitHub Actions"
