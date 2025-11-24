@@ -101,7 +101,7 @@ theme: tranquility
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: 'git'
-  token: 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
+  type: git
+  token: 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
   repository: git@github.com:luyaguo/math-guo.git
-  branch: main
+  branch: math
