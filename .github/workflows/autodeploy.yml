@@ -51,6 +51,7 @@ jobs:
           npm install hexo-generator-search --save
           npm install hexo-abbrlink --save
           npm install hexo-filter-mathjax
+          npm install hexo-renderer-markdown-it --save
 
       - name: 生成静态文件
         run: |
@@ -60,8 +61,8 @@ jobs:
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          token: ${{ secrets.DEPLOY_TOKEN }}
+          token: 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
           repository-name: luyaguo/math-guo
-          branch: gh-pages  # 推荐部署到gh-pages分支
+          branch: main
           folder: public
           commit-message: "Deployed by GitHub Actions"
