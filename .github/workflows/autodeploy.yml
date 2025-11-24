@@ -46,6 +46,8 @@ jobs:
 
       - name: 安装插件
         run: |
+          npm uninstall hexo-generator-category hexo-generator-archive
+          npm install hexo-pagination moment opentype.js
           npm install hexo-lazyload-image --save
           npm install hexo-wordcount --save
           npm install hexo-generator-search --save
