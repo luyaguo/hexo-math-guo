@@ -23,6 +23,11 @@ subpage: # 开启“子页”功能，详见 README
       title: 基础测试 # 菜单名，如 开发者
       icon: /images/icon/icon-pi.svg # 图标的路径
       description: 基于 hexo 官方的基础测试 # 描述
+    - name: english
+      path: eng
+      title: English
+      icon: /images/icon/icon-pi.svg
+      description: English Knowledge
 
 index: # 配置首页个性化内容
   motto: "长风破浪会有时！"
@@ -125,7 +130,7 @@ zh_font:
 # 配置时间线 参考 README.md
 timeline:
   enable: true
-  order: false # 是否按时间正序展示，false 为倒序
+  order: false  # 是否按时间正序展示，false 为倒序
   items:
     - name: article
       color: "#ee936c"
