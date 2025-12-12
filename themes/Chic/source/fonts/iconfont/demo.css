@@ -185,6 +185,7 @@
 
 .markdown h2 {
   font-size: 22px;
+  border-left: 4px solid #33ceac;
 }
 
 .markdown h3 {
