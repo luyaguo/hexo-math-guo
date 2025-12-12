@@ -4,7 +4,7 @@ date: 2023-07-03 10:26:00
 toc: true
 mathjax: true
 category: featTest
----
+--- 
 *原文来自 <www.hozen.site> [机器学习基础-“逻辑”回归 (logistic regression) 的数学原理](<https://www.hozen.site/archives/33/>*
 
 通过使用 logistic regression 处理一个二分类问题来简要分析其中的数学原理。

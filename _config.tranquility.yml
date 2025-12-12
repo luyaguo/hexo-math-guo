@@ -136,7 +136,7 @@ timeline:
       color: "#ee936c"
       icon: /images/icon/icon-article.svg
       checked: false
-    - name: app
+    - name: english
       color: "#60a465"
       icon: /images/icon/icon-app.svg
       checked: true
