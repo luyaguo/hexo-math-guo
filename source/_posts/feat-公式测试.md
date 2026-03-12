@@ -10,6 +10,16 @@ category: featTest
 通过使用 logistic regression 处理一个二分类问题来简要分析其中的数学原理。
 <!--more-->
 
+
+1、 省略号 \dots: $\dots$
+
+2、 导数符号 \prime: $\prime$
+
+3、 右箭头 \Rightarrow: $\Rightarrow$
+
+4、 绝对值 \mid x\mid：$\mid x\mid$
+
+
 ### 问题
 
 假设我们有这样一个问题，根据医学图像来判断病人的肿瘤为恶性还是良性，这就是一个二分类问题。
