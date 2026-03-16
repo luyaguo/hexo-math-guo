@@ -19,6 +19,8 @@ category: featTest
 
 4、 绝对值 \mid x\mid：$\mid x\mid$
 
+5、 无穷大 \infty：$(- \infty ， + \infty)$
+
 
 ### 问题
 
